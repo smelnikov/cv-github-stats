@@ -36,7 +36,6 @@ ghstats
     
     optional arguments:
       -h, --help            show this help message and exit
-      -r 
       -s SINCE, --since SINCE
                             Дата начала анализа (YYYY-MM-DD). Если пустая, то неограничено.
       -u UNTIL, --until UNTIL
